@@ -1,0 +1,19 @@
+#close
+{
+    -fx-cursor: hand;
+}
+
+#task
+{
+    -fx-background-color: LIGHTYELLOW;
+}
+
+#window
+{
+    -fx-cursor: move;
+}
+
+.button
+{
+    -fx-cursor: hand;
+}
